@@ -271,7 +271,7 @@ The filter() function calls the specified function which returns boolean for eac
 **Example:1**
 
 ```py
-# Lets filter only even nubers
+# Lets filter only even numbers
 numbers = [1, 2, 3, 4, 5]  # iterable
 
 def is_even(num):
